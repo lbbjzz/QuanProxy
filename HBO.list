@@ -1,0 +1,8 @@
+# > HBO NOW & Max
+USER-AGENT,HBO%20NOW*,Streaming
+DOMAIN-SUFFIX,hbo.com,Streaming
+DOMAIN-SUFFIX,hbogo.com,Streaming
+DOMAIN-SUFFIX,hbonow.com,Streaming
+USER-AGENT,HBOMAX*,Streaming
+DOMAIN-SUFFIX,hbomax.com,Streaming
+DOMAIN-SUFFIX,hbomaxcdn.com,Streaming
